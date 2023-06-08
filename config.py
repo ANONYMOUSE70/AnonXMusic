@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH","f12c642a9f02932c1bc82bf4c1ddb776")
 BOT_TOKEN = getenv("BOT_TOKEN","6136098468:AAExoUTnmbWHtUh6RcsYZ-0F8XGyvLcQfHs")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://mayabot20:Mayabot20@cluster0.u0ilcce.mongodb.net/?retryWrites=true&w=majority")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001780905599"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001953829604"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝙴𝙼𝙸𝚆𝙰𝚈 𝙱𝙰𝙽𝚃𝙰𝙸 💛")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "5447134162").split()))
